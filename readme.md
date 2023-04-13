@@ -1,1 +1,1 @@
-Переменные [github.com/erv1988/shells/bash/variables.md]
+[Переменные] (https://github.com/erv1988/shells/bash/variables.md)
