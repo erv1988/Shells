@@ -16,6 +16,8 @@
 (будет пополняться):
 
 - работы по CMD
+  - [Работа с переменными] (https://github.com/erv1988/Shells/blob/master/cmd/1_script.md)
+  - [Работа с вводом/выводом] (https://github.com/erv1988/Shells/blob/master/cmd/2_io.md)
 - работы по PowerShell
 - работы по Bash
   - [Переменные] (https://github.com/erv1988/Shells/blob/master/bash/variables.md)
