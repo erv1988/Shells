@@ -21,6 +21,15 @@
   - [Работа с переменными](https://github.com/erv1988/Shells/blob/master/cmd/1_script.md)
   - [Работа с вводом/выводом](https://github.com/erv1988/Shells/blob/master/cmd/2_io.md)
 - работы по PowerShell
+  - [Работа с переменными](https://github.com/erv1988/Shells/blob/master/powershell/1_script.md)
+  - [Работа с вводом/выводом](https://github.com/erv1988/Shells/blob/master/powershell/2_io.md)
 - работы по Bash
   - [Переменные](https://github.com/erv1988/Shells/blob/master/bash/variables.md)
   - [Строки](https://github.com/erv1988/Shells/blob/master/bash/strings.md)
+
+# Материалы для подготовки
+
+* [Справка по оболочкам](ss64.com)
+* [Командная строка Windows](https://www.labirint.ru/books/268310/)
+* [справка PowerShell](https://learn.microsoft.com/ru-ru/powershell/scripting/how-to-use-docs?view=powershell-7.3)
+* [Командная строка Linux](https://www.ozon.ru/product/komandnaya-stroka-linux-polnoe-rukovodstvo-2-e-mezhd-izdanie-shotts-uilyam-842381432/?sh=hnk_4X_ODg)
